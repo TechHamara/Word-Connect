@@ -9,7 +9,7 @@ This component is developed by th using Fast.<br>Word Connection is a fun and en
 
 ## 📝 Specifications
 * **
-📦 **Package:** io.th.wordconnect.wordconnect
+📦 **Package:** io.th.wordconnect.wordconnect<br>
 💾 **Size:** 56.01 KB<br>
 ⚙️ **Version:** 1.0<br>
 📱 **Minimum API Level:** 7<br>
