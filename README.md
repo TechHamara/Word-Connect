@@ -10,13 +10,13 @@ This component is developed by th using Fast.<br>Word Connection is a fun and en
 ## 📝 Specifications
 * **
 📦 **Package:** io.th.wordconnect.wordconnect
-💾 **Size:** 56.01 KB
-⚙️ **Version:** 1.0
-📱 **Minimum API Level:** 7
-📅 **Updated On:** [date=2025-03-03 timezone="Asia/Calcutta"]
-🔗 **Help URL:** [Learn more](https://github.com/TechHamara/Word-Connect)
-⚖️ **License:** [Terms & Conditions](https://github.com/TechHamara/Th_Extensions_List/blob/main/LICENSE)
-💻 **Built & documented using:** [FAST-CLI](https://community.appinventor.mit.edu/t/fast-an-efficient-way-to-build-extensions/129103?u=jewel) `v2.4.2`
+💾 **Size:** 56.01 KB<br>
+⚙️ **Version:** 1.0<br>
+📱 **Minimum API Level:** 7<br>
+📅 **Updated On:** [date=2025-03-03 timezone="Asia/Calcutta"]<br>
+🔗 **Help URL:** [Learn more](https://github.com/TechHamara/Word-Connect)<br>
+⚖️ **License:** [Terms & Conditions](https://github.com/TechHamara/Th_Extensions_List/blob/main/LICENSE)<br>
+💻 **Built & documented using:** [FAST-CLI](https://community.appinventor.mit.edu/t/fast-an-efficient-way-to-build-extensions/129103?u=jewel) `v2.4.2`<br>
 
 ## <kbd>Events:</kbd>
 **WordConnect** has total 11 events.
