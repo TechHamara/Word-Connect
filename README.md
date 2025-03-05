@@ -308,6 +308,18 @@ Set pentagon shape for dots
 ### 💜 StarShape
 Set star shape for dots
 
+![OvalShapeBlock](https://github.com/user-attachments/assets/992ed438-7470-4205-96bb-6ca12205e6d5)
+### 💜 OvalShape
+Set oval shape for dots
+
+![HexagonShapeBlock](https://github.com/user-attachments/assets/db63886c-2ddf-4320-bc6c-5205b3048562)
+### 💜 HexagonShape
+Set hexagon shape for dots
+
+![StarShapeBlock](https://github.com/user-attachments/assets/e9d01098-5df0-493c-8e1e-65ad80bab616)
+### 💜 StarShape
+Set star shape for dots
+
 <br>
 
 ## <kbd>Setters:</kbd>
@@ -415,6 +427,7 @@ Set the shape of dots (circle, square, triangle, oval, pentagon, hexagon, star)
 <br>
 
 <img width="256" alt="CircleColor" src="https://github.com/user-attachments/assets/06011fdb-1a88-4994-b48e-470b5a26c0b5" />
+
 ### 🟢 CircleColor
 Set the color of the circles
 
@@ -457,26 +470,102 @@ Returns a transparent color
 * Return type: `number`
 
 <img width="326" alt="NumberOfConnectors" src="https://github.com/user-attachments/assets/40d3c9fe-e9cd-463f-a5bd-b09cc5f5e3c6" />
+
 ### 🟢 NumberOfConnectors
 Get current number of connectors
 
 * Return type: `number`
 
 <img width="246" alt="LineColor" src="https://github.com/user-attachments/assets/88fa1b3d-16e4-426d-9649-3ecf6fc37343" />
+
 ### 🟢 LineColor
 Set the color of pattern lines
 
 * Return type: `number`
 
 <img width="280" alt="AnimationType" src="https://github.com/user-attachments/assets/3975183c-523a-4c2b-a127-b1c5838eb5e9" />
+
 ### 🟢 AnimationType
 Set animation type (0 = None, 1 = Middle, 2 = Bottom)
 
 * Return type: `number`
 
 <img width="248" alt="LineWidth" src="https://github.com/user-attachments/assets/1d5920df-3ef8-4baa-b0ad-2369ebb166ad" />
+
 ### 🟢 LineWidth
 Set the width of pattern lines
 
 * Return type: `number`
 
+![LettersBlock](https://github.com/user-attachments/assets/1fc11d82-4c5b-4561-b770-3b254458e80c)
+### 🟢 Letters
+Get the current letters as a string (separated by '|')
+
+* Return type: `text`
+
+![ShapeBlock](https://github.com/user-attachments/assets/a87818ec-6f36-4f1a-b369-7600e8b53efe)
+### 🟢 Shape
+Set the shape of dots
+
+* Return type: `text`
+
+  <br>
+
+## <kbd>Helper:</kbd>
+**WordConnect** has total 7 Helpers properties.
+
+<br>
+
+![CIRCLEBlock](https://github.com/user-attachments/assets/646e5b3a-8100-4148-83d2-f28d1ace8149)
+### CIRCLE
+Option for CIRCLE
+
+* Returns: CIRCLE<br>
+Deprecated: `false`
+
+![SQUAREBlock](https://github.com/user-attachments/assets/332b8791-229a-4c24-b762-469d6fe8f170)
+###  SQUARE
+Option for SQUARE
+
+* Returns: SQUARE<br>
+Deprecated: `false`
+
+![TRIANGLEBlock](https://github.com/user-attachments/assets/949dd88e-604a-45b8-ac48-8ded63b0789a)
+###  TRIANGLE
+Option for TRIANGLE
+
+* Returns: TRIANGLE<br>
+Deprecated: `false`
+
+![OVALBlock](https://github.com/user-attachments/assets/de625acf-5c4d-4db1-8412-5eb40fdb0555)
+###  OVAL
+Option for OVAL
+
+* Returns: OVAL<br>
+Deprecated: `false`
+
+![PENTAGONBlock](https://github.com/user-attachments/assets/d0ab64cf-1286-48a3-860d-d6cd3623b58c)
+###  PENTAGON
+Option for PENTAGON
+
+* Returns: PENTAGON<br>
+Deprecated: `false`
+
+![HEXAGONBlock](https://github.com/user-attachments/assets/fa1a523b-f1b3-446b-b2cc-4b80b2548728)
+###  HEXAGON
+Option for HEXAGON
+
+* Returns: HEXAGON<br>
+Deprecated: `false`
+
+![STARBlock](https://github.com/user-attachments/assets/43869c5e-53ea-45e2-9ffe-c7b5501e541d)
+###  STAR
+Option for STAR
+
+* Returns: STAR<br>
+Deprecated: `false`
+
+## Thanks
+   TechHamara
+
+   
