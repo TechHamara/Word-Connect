@@ -544,49 +544,49 @@ Set the shape of dots
 <br>
 
 ![CIRCLEBlock](https://github.com/user-attachments/assets/646e5b3a-8100-4148-83d2-f28d1ace8149)
-### CIRCLE
+### 🔴CIRCLE
 Option for CIRCLE
 
 * Returns: CIRCLE<br>
 Deprecated: `false`
 
 ![SQUAREBlock](https://github.com/user-attachments/assets/332b8791-229a-4c24-b762-469d6fe8f170)
-###  SQUARE
+###  🔴SQUARE
 Option for SQUARE
 
 * Returns: SQUARE<br>
 Deprecated: `false`
 
 ![TRIANGLEBlock](https://github.com/user-attachments/assets/949dd88e-604a-45b8-ac48-8ded63b0789a)
-###  TRIANGLE
+###  🔴TRIANGLE
 Option for TRIANGLE
 
 * Returns: TRIANGLE<br>
 Deprecated: `false`
 
 ![OVALBlock](https://github.com/user-attachments/assets/de625acf-5c4d-4db1-8412-5eb40fdb0555)
-###  OVAL
+###  🔴OVAL
 Option for OVAL
 
 * Returns: OVAL<br>
 Deprecated: `false`
 
 ![PENTAGONBlock](https://github.com/user-attachments/assets/d0ab64cf-1286-48a3-860d-d6cd3623b58c)
-###  PENTAGON
+###  🔴PENTAGON
 Option for PENTAGON
 
 * Returns: PENTAGON<br>
 Deprecated: `false`
 
 ![HEXAGONBlock](https://github.com/user-attachments/assets/fa1a523b-f1b3-446b-b2cc-4b80b2548728)
-###  HEXAGON
+###  🔴HEXAGON
 Option for HEXAGON
 
 * Returns: HEXAGON<br>
 Deprecated: `false`
 
 ![STARBlock](https://github.com/user-attachments/assets/43869c5e-53ea-45e2-9ffe-c7b5501e541d)
-###  STAR
+###  🔴STAR
 Option for STAR
 
 * Returns: STAR<br>
