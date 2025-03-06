@@ -1,5 +1,5 @@
 # Word-Connect
-Word Connect extension to create fun and engaging word puzzle game for app inventor
+Word Connect extension to create fun and engaging word puzzle game and also use as Screen Lock for app inventor
 
 <div align="center">
 <h1><kbd>🧩 WordConnect</kbd></h1>
@@ -18,7 +18,7 @@ This component is developed by th using Fast.<br>Word Connection is a fun and en
 ⚖️ **License:** [Terms & Conditions](https://github.com/TechHamara/Th_Extensions_List/blob/main/LICENSE)<br>
 💻 **Built & documented using:** [FAST-CLI](https://community.appinventor.mit.edu/t/fast-an-efficient-way-to-build-extensions/129103?u=jewel) `v2.4.2`<br>
 <br>
-**Paid** Price - 4💲 USD.
+**Paid** Price - 4💲 USD.<br>
   **INR** UPI - 350rs.<br>
 **Find** more Extension [here](https://github.com/TechHamara/Th_Free_Extensions)<br>
 <br>
