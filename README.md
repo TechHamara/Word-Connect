@@ -22,6 +22,8 @@ This component is developed by th using Fast.<br>Word Connection is a fun and en
   **INR** UPI - 350rs.<br>
 **Find** more Extension [here](https://github.com/TechHamara/Th_Free_Extensions)<br>
 <br>
+## Demo blocks
+![Demo-blocks](https://github.com/user-attachments/assets/9b4d194c-7767-416a-a36a-2fb8a2929d82)
 
 <br>
 
