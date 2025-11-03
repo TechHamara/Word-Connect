@@ -19,7 +19,7 @@ This component is developed by th using Fast.<br>Word Connection is a fun and en
 💻 **Built & documented using:** [FAST-CLI](https://community.appinventor.mit.edu/t/fast-an-efficient-way-to-build-extensions/129103?u=jewel) `v2.4.2`<br>
 <br>
 **Paid** Price - 4💲 USD.<br>
-  **INR** UPI - 350rs.<br>
+  **INR** UPI - 350rs. [PayPal](https://www.paypal.com/ncp/payment/U3XSB8ZM3HNU6)<br>
 **Find** more Extension [here](https://github.com/TechHamara/Th_Free_Extensions)<br>
 <br>
 ## Demo blocks
@@ -595,4 +595,5 @@ Deprecated: `false`
 ## Thanks
    TechHamara
 
-   
+   ## Buy Now on [PayPal](https://www.paypal.com/ncp/payment/U3XSB8ZM3HNU6) 
+
